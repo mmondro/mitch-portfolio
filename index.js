@@ -58,7 +58,7 @@ export default function Home() {
               Marketing Expert
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-            Iam a marketing professional with experience in B2B campaigns across multiple industries. I've blockchain technology and its applications for businesses
+            I am a marketing professional interested in the business applications of blockchain technology.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               
@@ -80,8 +80,7 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
+              Since the beginning of my journey as marketer, I've worked on campaigns in almost every possible industry.
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
